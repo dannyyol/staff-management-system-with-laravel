@@ -5,9 +5,6 @@ http://127.0.0.1:8000/register
 
 ## You can engage in this project to make this more advanced and you can add new features.You contribution will be highly appreciated !!
 
-## Screenshots
-# Login page
-
 # Login credentials
 Admin Account: ['email' => 'daniel.borngreat@gmail.com', 'password' => 'password'] <br>
 Employee Account: ['email' => 'joeray@gmail.com', 'password' => 'password'] 
